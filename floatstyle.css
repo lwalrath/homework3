@@ -1,0 +1,38 @@
+body {
+	background-color:#bbbbbb;
+	font-family: baskerville;
+}
+
+#container {
+	width: 95%;
+	margin: 10px auto;
+	background-color:#e6e6e6;
+	border: 1px solid #565656;
+}
+
+#head {
+	font-size:larger;
+	padding: .2em;
+	background-color: #00BCD4;
+	border-bottom: 1px solid #565656;
+}
+
+#left {
+	float:left;
+	width: 45%;
+	padding: 0 1em 0 1em;
+}
+
+#right {
+	float: right;
+	width: 45%;
+	padding: 0 1em 0 1em;
+	border-left: 1px solid #565656;
+}
+
+#footer {
+	clear:both;
+	padding: .1em;
+	background-color: #02aabf;
+	border-top: 1px solid #565656;
+}
